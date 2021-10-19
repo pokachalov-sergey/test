@@ -5,6 +5,9 @@ class Program
 {
     static void Main(string[] args)
     {
+        //////
+        /////
+        ////
         string[] inputs = Console.ReadLine().TrimEnd().Split(' ');
         StringBuilder cond = new StringBuilder(inputs[0]);
 
